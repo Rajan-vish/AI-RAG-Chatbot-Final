@@ -46,3 +46,4 @@ tiktoken>=0.7.0
 
 # Caching & Latency Optimization (Redis / In-memory)
 redis>=5.0.0
+gunicorn
